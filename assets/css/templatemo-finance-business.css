@@ -930,9 +930,11 @@ footer h4.count {
 footer p.count{
      color: #ffffff;
 	 font-size: 50px;
-	
-	 text-align:left;
-	 
+	 font-family: 'Boogaloo', cursive;
+	 text-align:right;
+	 margin-right: 90px;
+	 margin-top: 10px;
+	 margin-bottom: 10px;
 }
 
 
